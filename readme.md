@@ -28,7 +28,11 @@ consisting of one line with a quote:
     2 PRINT "I am program A"
     1 "
 
-Then complete the new program by adding a label "B" and the rest of the code:
+Note that the new line `1 "` starts a new program that is independent of the
+previous programs, even when the listing appears to be continuous.  To verify,
+`LIST` only lists the last merged program's first lines.
+
+Complete the new program by adding a label "B" and the rest of the code:
 
     1 "A" REM my first program
     2 PRINT "I am program A"
