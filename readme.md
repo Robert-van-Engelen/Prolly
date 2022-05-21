@@ -1,4 +1,4 @@
-# Prolly: MERGEd BASIC programs rotator for SHARP pocket computers
+# Create and rotate BASIC programs in your SHARP pocket computer
 
 SHARP pocket computers of the 80s can store and run several BASIC programs
 together when loaded with `MERGE` from a cassette tape.  The last MERGEd
