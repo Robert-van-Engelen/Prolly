@@ -156,9 +156,9 @@ last MERGEd.  The last MERGEd program can be edited.
 To make this easier and avoid costly mistakes when entering the calling
 address, in RESERVE MODE define SHIFT-M (merge new) and SHIFT-SPC (rotate):
 
-`RESERVE MODE`
-`M: CALL 24626`
-` : CALL 24628`
+    RESERVE MODE
+    M: CALL 24626
+     : CALL 24628
 
 ## Converting BAS to WAV files
 
