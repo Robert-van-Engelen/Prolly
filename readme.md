@@ -30,7 +30,10 @@ consisting of one line with a quote:
 
 Note that the new line `1 "` starts a new program that is independent of the
 previous programs, even when the listing appears to be continuous.  To verify,
-`LIST` only lists the last merged program's first lines.
+`LIST` only lists the last merged program's first lines.  In this case:
+
+    LIST
+    1 "
 
 Complete the new program by adding a label "B" and the rest of the code:
 
