@@ -44,9 +44,9 @@ Complete the new program by adding a label "B" and the rest of the code:
 
 When executed, program "A" stops at line 2 and will not run program "B".
 Programs are internally separated when MERGEd.  Separate programs can call each
-other using `GOTO` and `GOSUB`.  `RESTORE` data in another program is also
-possible.  In this way, libraries of routines and data can be created and
-shared among several programs.
+other using `GOTO` and `GOSUB` with labels or string expressions.  `RESTORE`
+data in another program is also possible.  In this way, libraries of routines
+and data can be created and shared among several programs.
 
 `CALL 32820` (PC-1360) rotates the programs, effectively switching "A" and "B":
 
