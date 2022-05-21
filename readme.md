@@ -93,9 +93,9 @@ last MERGEd.  The last MERGEd program can be edited.
 To make this easier and avoid costly mistakes when entering the calling
 address, in RESERVE MODE define SHIFT-M (merge new) and SHIFT-SPC (rotate):
 
-`RESERVE MODE`
-`M: CALL 32818`
-` : CALL 32820`
+    RESERVE MODE
+    M: CALL 32818
+     : CALL 32820
 
 ## SHARP PC-1350 with 16KB RAM card
 
@@ -114,9 +114,9 @@ last MERGEd.  The last MERGEd program can be edited.
 To make this easier and avoid costly mistakes when entering the calling
 address, in RESERVE MODE define SHIFT-M (merge new) and SHIFT-SPC (rotate):
 
-`RESERVE MODE`
-`M: CALL 8242`
-` : CALL 8244`
+   RESERVE MODE
+   M: CALL 8242
+    : CALL 8244
 
 ## SHARP PC-1350 with 8KB RAM card
 
@@ -135,9 +135,9 @@ last MERGEd.  The last MERGEd program can be edited.
 To make this easier and avoid costly mistakes when entering the calling
 address, in RESERVE MODE define SHIFT-M (merge new) and SHIFT-SPC (rotate):
 
-`RESERVE MODE`
-`M: CALL 16434`
-` : CALL 16436`
+    RESERVE MODE
+    M: CALL 16434
+     : CALL 16436
 
 ## SHARP PC-1350 without RAM card
 
