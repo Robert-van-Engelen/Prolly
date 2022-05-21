@@ -43,7 +43,7 @@ Complete the new program by adding a label "B" and the rest of the code:
     2 PRINT "I am program B"
 
 Executing `RUN` will run program "B", because it is the last MERGEd just as
-`LIST` list program "B".
+`LIST` will only list program "B".
 
 Program "A" is executed with `RUN "A"`.  Program "A" stops at line 2 and will
 not run program "B".  Programs are internally separated when MERGEd.  Separate
