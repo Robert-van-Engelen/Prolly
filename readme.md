@@ -66,10 +66,11 @@ Program "A" can now be edited, which was not possible before the rotation:
     1 "A" REM my first program
     2 PRINT "I am the first program"
 
-With _Prolly_ you can create as many programs as you like and rotate them.  To
-delete the last program, use `DELETE 1,` (PC-1360) or just enter empty line
-numbers (PC-1350).  `NEW` deletes all programs.  `SAVE` and `CSAVE` saves them
-all combined.
+You can create as many programs as you like and rotate them.  To delete the
+last program, use `DELETE 1,` (PC-1360) or enter empty line numbers (PC-1350).
+`NEW` deletes all programs.  `SAVE` and `CSAVE` saves them combined.  If you
+use [PocketTools](https://www.peil-partner.de/ifhe.de/sharp/), then the MERGEd
+CSAVEd programs can be converted back to text.
 
 The following instructions use a cassette interface (CE-126P or CE-124) to load
 the bootloader program.  If you do not have a cassette interface, then you can
