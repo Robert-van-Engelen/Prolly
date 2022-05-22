@@ -67,7 +67,7 @@ Program "A" can now be edited, which was not possible before the rotation:
     2 PRINT "I am the first program"
 
 With _Prolly_ you can create as many programs as you like and rotate them.  To
-delete the last program, use `DELETE,` (PC-1360) or just enter empty line
+delete the last program, use `DELETE 1,` (PC-1360) or just enter empty line
 numbers (PC-1350).  `NEW` deletes all programs.  `SAVE` and `CSAVE` saves them
 all combined.
 
